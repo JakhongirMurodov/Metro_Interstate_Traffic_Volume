@@ -7,7 +7,7 @@ The goal of my analysis is to determine a few indicators of heavy traffic on I-9
 
 
 # Conclusion
-In this project, we tried to find a few indicators of heavy traffic on the I-94 Interstate highway. We managed to find two types of indicators:
+In this project, I tried to find indicators of heavy traffic on the I-94 Interstate highway. I found two types of indicators:
 
 Time indicators
 1. The traffic is usually heavier during warm months (March–October) compared to cold months (November–February).
